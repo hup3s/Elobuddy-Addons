@@ -35,17 +35,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-  <Reference Include="EloBuddy">
-      <HintPath>..\..\..\..\..\Desktop\Elobuddy\Dependencies\EloBuddy.dll</HintPath>
+    <Reference Include="Elobuddy">
+      <HintPath>C:\Program Files (x86)\Elobuddy\System\Elobuddy.dll</HintPath>
     </Reference>
-    <Reference Include="EloBuddy.SDK">
-      <HintPath>..\..\..\..\..\Desktop\Elobuddy\Dependencies\EloBuddy.SDK.dll</HintPath>
+    <Reference Include="Elobuddy.Common">
+      <HintPath>C:\Program Files (x86)\Elobuddy\System\Elobuddy.Common.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>..\..\..\..\..\Desktop\Elobuddy\Dependencies\SharpDX.dll</HintPath>
-    </Reference>
-    <Reference Include="SharpDX.Direct3D9">
-      <HintPath>..\..\..\..\..\Desktop\Elobuddy\Dependencies\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Elobuddy\System\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
