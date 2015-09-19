@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
-using LeagueSharp.Common;
-using LeagueSharp;
+using EloBuddy;
+using EloBuddy.SDK;
 using SharpDX;
 using Color = System.Drawing.Color;
 
