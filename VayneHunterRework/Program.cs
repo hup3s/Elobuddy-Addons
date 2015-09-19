@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using EloBuddy;
 using EloBuddy.SDK;
-using EloBuddy.Common;
 
 namespace VayneHunterRework
 {
